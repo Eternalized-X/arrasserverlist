@@ -37,6 +37,16 @@ a {
   border-radius: 5px;
   box-shadow: inset 0 -4px rgba(0, 0, 0, 0.15);
 }
+a:hover {
+  top: 1px;
+  height: 29px;
+  box-shadow: inset 0 -3px rgba(0, 0, 0, 0.15);
+}
+a:active {
+  top: 4px;
+  height: 26px;
+  box-shadow: inset 0 -25px rgba(0, 0, 0, 0.15);
+}
 /* images and videos max out at full width */
 img,
 video {
