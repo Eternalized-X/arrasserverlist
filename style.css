@@ -16,6 +16,10 @@ body {
   font-family: sans-serif;
   line-height: 1.5;
 }
+h1 {
+  font: medium / Ubuntu;
+  color: blue;
+ }
 
 /* images and videos max out at full width */
 img,
@@ -23,3 +27,4 @@ video {
   height: auto;
   max-width: 100%;
 }
+
