@@ -19,10 +19,16 @@ body {
   background: #0C84FF84
 
 }
+a.button1 {
+ background: #BDFF00;
+ -webkit-appearance: button;
+ -moz-appearance: button;
+ appearance: button;
+ text-decoration: none;
+}
 /* images and videos max out at full width */
 img,
 video {
   height: auto;
   max-width: 100%;
 }
-button 
