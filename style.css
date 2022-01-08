@@ -15,16 +15,14 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-}
-h1 {
-  font: medium / Ubuntu;
-  color: blue;
- }
+  font-size: 15px;
+  background: #0C84FF84
 
+}
 /* images and videos max out at full width */
 img,
 video {
   height: auto;
   max-width: 100%;
 }
-
+button 
