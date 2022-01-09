@@ -50,6 +50,9 @@ a:active {
 a.blacktext {
   color: black;
 }
+a.yellowtext {
+  color: yellow;
+}
 p {
   height: 30px
  }/* images and videos max out at full width */
