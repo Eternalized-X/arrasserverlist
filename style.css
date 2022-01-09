@@ -47,6 +47,9 @@ a:active {
   height: 26px;
   box-shadow: inset 0 -25px rgba(0, 0, 0, 0.15);
 }
+a.blacktext {
+  color: black;
+}
 p {
   height: 30px
  }/* images and videos max out at full width */
