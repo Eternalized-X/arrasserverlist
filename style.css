@@ -63,6 +63,9 @@ a.redtext {
 a.limetext {
   color: lime;
 }
+a.skytext {
+  color: #00aaff;
+}
 a.redtopinkbackground {
   background: linear-gradient(#ff4139, #ff7295);
 }
