@@ -38,3 +38,4 @@ const ta = (() => {
     return e ? {width: a.clientWidth, height: a.clientHeight} : a.clientWidth;
     }
  })(); 
+console.log(1316415995784835856522109481535102976 * 2);
