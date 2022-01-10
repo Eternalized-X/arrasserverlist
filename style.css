@@ -19,6 +19,10 @@ body {
   background: #0C84FF84
 
 }
+h2 {
+  font: medium Ubuntu;
+  height: 10px;
+}
 a {
  display: inline-block;
   position: relative;
