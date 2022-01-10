@@ -1,7 +1,5 @@
 /* If you're feeling fancy you can add interactivity 
     to your site with Javascript */
-
-console.log("Hello, world!");
 const ta = (() => {
     let b = document.createElement("canvas").getContext("2d");
     if (b.measureText) {
@@ -40,3 +38,5 @@ const ta = (() => {
     return e ? {width: a.clientWidth, height: a.clientHeight} : a.clientWidth;
     }
  })();     
+const name = (() => {
+let a = document.getElementById("name")
