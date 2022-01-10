@@ -53,6 +53,9 @@ a.blacktext {
 a.yellowtext {
   color: yellow;
 }
+a.redtext {
+  color: red;
+}
 p {
   height: 30px
  }/* images and videos max out at full width */
