@@ -20,3 +20,5 @@ This is a basic static HTML starter project you can build on however you like. N
 
 - Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
 - Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+
+https://cdn.glitch.me/85965574-7ecf-46a8-975b-2c7c31ba4cec/video_image.jpeg?v=1640711954772
