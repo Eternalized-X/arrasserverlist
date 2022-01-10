@@ -63,10 +63,10 @@ a.redtopinkbackground {
   background: linear-gradient(#ff4139, #ff7295);
 }
 a.yellowlimetolimebackground {
-  background: linear-gradient(#cfc709, #23de02);
+  background: linear-gradient(to right, #cfc709, #23de02);
 }
 a.limetogreenbackground {
-  background: linear-gradient(#b2d435, #517829);
+  background: linear-gradient(to bottom right, #b2d435, #517829);
 }
 p {
   height: 30px
