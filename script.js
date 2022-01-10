@@ -37,4 +37,4 @@ const ta = (() => {
     a.style.font = "bold " + d + "px Ubuntu";
     return e ? {width: a.clientWidth, height: a.clientHeight} : a.clientWidth;
     }
- })();     
+ })(); 
