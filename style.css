@@ -62,6 +62,12 @@ a.limetext {
 a.redtopinkbackground {
   background: linear-gradient(#ff4139, #ff7295);
 }
+a.yellowlimetolimebackground {
+  background: linear-gradient(#cfc709, #23de02);
+}
+a.limetogreenbackground {
+  background: linear-gradient(#b2d435, #517829);
+}
 p {
   height: 30px
  }/* images and videos max out at full width */
