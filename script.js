@@ -38,5 +38,3 @@ const ta = (() => {
     return e ? {width: a.clientWidth, height: a.clientHeight} : a.clientWidth;
     }
  })();     
-const name = (() => {
-let a = document.getElementById("name")
