@@ -13,7 +13,7 @@ html {
 /* adjust typography defaults */
 body {
   margin: 1rem;
-  font-family: sans-serif;
+  font-family: Ubuntu;
   line-height: 1.5;
   font-size: 15px;
   background: #0C84FF84
@@ -25,7 +25,7 @@ a {
   margin: 2px;
   border: 0px;
   padding: 5px;
- 
+  /* width: 70px */
   height: 30px;
   font-size: smaller;
   color: white;
